@@ -18,7 +18,9 @@ Just open `sim.html` in any browser. No installation needed.
 I split this into three files instead of keeping it all in one: 
 
 sim.html   --> structure
+
 style.css  --> styling
+
 sim.js     --> all the actual physics/simulation logic
 
 ## What I learned
