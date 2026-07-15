@@ -31,6 +31,6 @@ sim.js     --> all the actual physics/simulation logic
 - How mass affects a collision, and a simple way to fake "mass" in 2D using particle area
   
 ## Next steps
-- Spring-based cloth/soft-body simulation — planning to build this as its own separate project rather than adding it here, since it's a genuinely different simulation    model (particles connected by springs pulling toward a rest length, vs. rigid particles that only interact on contact)
+- Spring-based cloth/soft-body simulation planning to build this as its own separate project rather than adding it here, since it's a genuinely different simulation    model (particles connected by springs pulling toward a rest length, vs. rigid particles that only interact on contact)
 - Basic fluid simulation
 - Some kind of spatial partitioning (grid/quadtree) so collision checks don't fall over once there are a lot more particles, right now it's checking every pair, which    is fine for now but won't scale forever.
