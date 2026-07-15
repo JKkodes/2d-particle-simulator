@@ -1,5 +1,8 @@
 # 2D Particle Physics Simulator
   A simple 2D physics simulation built with HTML5 Canvas and vanilla JavaScript, no frameworks, no libraries, no build tools.
+
+# Live Demo
+  **[Live Demo](https://jkkodes.github.io/2d-particle-simulator/sim.html)**
   
 ## What it does
 - Simulates a bunch of particles (you can control how many) under gravity
